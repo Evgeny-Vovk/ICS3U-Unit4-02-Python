@@ -5,7 +5,7 @@
 # ICS3U-Unit4-02.py File,
 # learning do...while statement in python.
 
- 
+
 def main():
 
     # input and variables
